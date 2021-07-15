@@ -1,3 +1,3 @@
 Texto exemplo
 
-git
+git ->
